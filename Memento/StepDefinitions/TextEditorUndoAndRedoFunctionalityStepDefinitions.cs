@@ -1,9 +1,11 @@
 using Memento.SUT;
 using Memento.SUT.Core;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Memento.StepDefinitions
 {
     [Binding]
+    [ExcludeFromCodeCoverage]
     public class TextEditorUndoAndRedoFunctionalityStepDefinitions
     {
         private readonly ScenarioContext _scenarioContext;
