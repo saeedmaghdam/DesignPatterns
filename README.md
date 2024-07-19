@@ -2,3 +2,4 @@
 
 ## [Chain Of Responsibility](./ChainOfResponsibility/)
 ## [Memento](./Memento/)
+## [Visitor](./Visitor/)

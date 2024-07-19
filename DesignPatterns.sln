@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{4F3217CB-6179-4C36-B041-C23DC2D02692}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{09FB9FCF-77EC-4697-8650-CF04FBBDBAAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4F3217CB-6179-4C36-B041-C23DC2D02692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F3217CB-6179-4C36-B041-C23DC2D02692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F3217CB-6179-4C36-B041-C23DC2D02692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FB9FCF-77EC-4697-8650-CF04FBBDBAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FB9FCF-77EC-4697-8650-CF04FBBDBAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FB9FCF-77EC-4697-8650-CF04FBBDBAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FB9FCF-77EC-4697-8650-CF04FBBDBAAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
